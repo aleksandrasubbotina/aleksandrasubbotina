@@ -2,7 +2,7 @@
 
 I am a QA engineer 🌱
 
-Learning Python 🐍: here is [my Exercism account](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
+🐍 Learning Python - here is [my Exercism account](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
 <!--
 **aleksandrasubbotina/aleksandrasubbotina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
