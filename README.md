@@ -1,6 +1,8 @@
 # Hi! My name is Aleksandra Subbotina
 
 I am a QA engineer 🌱
+
+Learning Python 🐍 [My Excersism account](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
 <!--
 **aleksandrasubbotina/aleksandrasubbotina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
