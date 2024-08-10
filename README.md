@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi! My name is Aleksandra Subbotina
 
+I am a QA engineer 🌱
 <!--
 **aleksandrasubbotina/aleksandrasubbotina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
