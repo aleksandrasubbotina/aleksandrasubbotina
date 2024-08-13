@@ -2,9 +2,7 @@
 
 Here I share some testing and coding portfolio items.
 
-📬 API functional [test design and testing](URL "https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing" target="_blank")
-
-(URL "https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing" target="_blank")
+📬 API functional [test design and testing](https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing){:target="_blank"}
 
 📱 Mobile functional and regression [test design and testing](https://docs.google.com/spreadsheets/d/1r-A4HIwOAhAZEluhPEk5x42jr84WEaAE95HT54qeJ7s/edit?gid=212565037#gid=212565037)
 
