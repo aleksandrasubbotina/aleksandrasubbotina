@@ -3,6 +3,9 @@
 I am a QA engineer 🌱
 
 🐍 Learning Python - here is [my gExercism account](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
+
+# Test Artifacts
+- [API functional testing](https://docs.google.com/spreadsheets/d/1IzIng4hjH-hihNgpEbAtvCKx9_6x2-0OSTFoUsPvqjE/edit?gid=2006427015#gid=2006427015)
 <!--
 **aleksandrasubbotina/aleksandrasubbotina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
