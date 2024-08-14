@@ -1,6 +1,7 @@
 ### Hi! My name is Aleksandra, I am a QA engineer 🌱
 
-Here I share some testing and coding portfolio items.
+
+Here I share some testing and coding portfolio items:
 
 📬 API functional [test design and testing](https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing)
 
