@@ -1,5 +1,6 @@
 ### Hi! My name is Aleksandra, I am a QA engineer 🌱
 
+---
 
 Here I share some testing and coding portfolio items:
 
