@@ -13,3 +13,17 @@ Here I share some testing and coding portfolio items:
 - 🪲 Bug Report examples [YouTrack](https://sashasubbotina.youtrack.cloud/projects/0f427af5-73df-41d3-9631-384d0119db61)
 
 - 🐍 Solving problems with [Python](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
+
+---
+
+More tools I use:
+
+- Postman
+- SoapUI
+- DevTools
+- Figma
+- Android Studio
+- Git
+- Terminal
+- VS Code
+- YouTrack
