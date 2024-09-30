@@ -2,7 +2,11 @@
 
 ---
 
-Here I share some testing and coding portfolio items:
+Here I share some coding and testing portfolio items:
+
+- 🦔 Solving problems with [JavaScript](https://exercism.org/profiles/sashasubbotina/solutions?track_slug=javascript&order=newest_first)
+
+- 🐍 Solving problems with [Python](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
 
 - 📬 API functional [test design and testing](https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing)
 
@@ -11,22 +15,18 @@ Here I share some testing and coding portfolio items:
 - 🖥 Web-application [test design and testing](https://docs.google.com/spreadsheets/d/1hZfcttbnhQnsqqOFu9O1fBmnmCaYB6nnAZ5OaXqUfck/edit?usp=sharing)
 
 - 🪲 Bug Report examples [YouTrack](https://sashasubbotina.youtrack.cloud/projects/0f427af5-73df-41d3-9631-384d0119db61)
-  
-- 🦔 Learning [JavaScript](https://exercism.org/profiles/sashasubbotina/solutions?track_slug=javascript&order=newest_first)
-
-- 🐍 Solving problems with [Python](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
 
 ---
 
 More tools I use:
 
+- Git
+- Terminal
+- VS Code
 - Postman
 - Charles Proxy
 - SoapUI
 - DevTools
 - Figma
 - Android Studio
-- Git
-- Terminal
-- VS Code
 - YouTrack
