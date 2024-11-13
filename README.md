@@ -20,9 +20,6 @@ Here I share some coding and testing portfolio items:
 
 More tools I use:
 
-- Git
-- Terminal
-- VS Code
 - Postman
 - Charles Proxy
 - SoapUI
@@ -30,3 +27,6 @@ More tools I use:
 - Figma
 - Android Studio
 - YouTrack
+- Git
+- Terminal
+- VS Code
