@@ -2,7 +2,7 @@
 
 ---
 
-Here I share some coding and testing portfolio items:
+Here I share some testing and coding portfolio items:
 
  📬 API functional [test design and testing](https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing)
 
