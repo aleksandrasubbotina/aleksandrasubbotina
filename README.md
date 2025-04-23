@@ -4,7 +4,7 @@
 
 Here I share some testing and coding portfolio items:
 
- 📬 API functional [test design](https://docs.google.com/spreadsheets/d/185gLT4z4gHil4tuixmC8cn_mCF9tu-I1GYQwhCYO9xU/edit?usp=sharing)
+ 🌌 API functional [test design](https://docs.google.com/spreadsheets/d/185gLT4z4gHil4tuixmC8cn_mCF9tu-I1GYQwhCYO9xU/edit?usp=sharing)
  
  📬 API functional [test design and testing](https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing)
 
