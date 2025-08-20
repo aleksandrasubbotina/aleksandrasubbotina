@@ -22,6 +22,8 @@ Here I share some testing and coding portfolio items:
 
 More tools I use:
 
+- Playwright
+- TypeScript
 - Postman
 - Charles Proxy
 - SoapUI
@@ -30,5 +32,4 @@ More tools I use:
 - Android Studio
 - YouTrack
 - Git
-- Terminal
 - VS Code
