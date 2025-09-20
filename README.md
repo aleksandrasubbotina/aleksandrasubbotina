@@ -1,35 +1,4 @@
-### Hi! My name is Aleksandra, I am a QA engineer 🌱
+## Hi! My name is Aleksandra 🌱
 
----
-
-Here I share some testing and coding portfolio items:
-
- 🌌 API functional [test design](https://docs.google.com/spreadsheets/d/185gLT4z4gHil4tuixmC8cn_mCF9tu-I1GYQwhCYO9xU/edit?usp=sharing)
- 
- 📬 API functional [test design and testing](https://docs.google.com/spreadsheets/d/1a_j4SenpEUqPXrgvMjFr_AG5uMqED16LyiUKdHVzeqI/edit?usp=sharing)
-
- 📱 Mobile functional and regression [test design and testing](https://docs.google.com/spreadsheets/d/1r-A4HIwOAhAZEluhPEk5x42jr84WEaAE95HT54qeJ7s/edit?gid=212565037#gid=212565037)
-
- 🖥 Web-application [test design and testing](https://docs.google.com/spreadsheets/d/1hZfcttbnhQnsqqOFu9O1fBmnmCaYB6nnAZ5OaXqUfck/edit?usp=sharing)
-
- 🪲 Bug Report examples [YouTrack](https://sashasubbotina.youtrack.cloud/projects/0f427af5-73df-41d3-9631-384d0119db61)
-
- 🦔 Solving problems with [JavaScript](https://exercism.org/profiles/sashasubbotina/solutions?track_slug=javascript&order=newest_first)
-
- 🐍 Solving problems with [Python](https://exercism.org/profiles/sashasubbotina/solutions?order=newest_first)
-
----
-
-More tools I use:
-
-- Playwright
-- TypeScript
-- Postman
-- Charles Proxy
-- SoapUI
-- DevTools
-- Figma
-- Android Studio
-- YouTrack
-- Git
-- VS Code
+I am a QA engineer. Beyond that, I have a [resume](https://drive.google.com/file/d/1IxROeZkqFPl8U8bRMpY-lQebTpkOJlDH/view?usp=sharing)
+and a [demo project](https://github.com/aleksandrasubbotina/playwright_UI_tests).
